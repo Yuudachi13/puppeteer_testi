@@ -1,0 +1,50 @@
+Warlock,Lost Match
+Pudge,Won Match
+Rubick,Lost Match
+Rubick,Won Match
+Rubick,Won Match
+Spirit Breaker,Lost Match
+Timbersaw,Lost Match
+Rubick,Won Match
+Zeus,Won Match
+Pudge,Lost Match
+Hoodwink,Won Match
+Earthshaker,Won Match
+Earthshaker,Lost Match
+Ancient Apparition,Lost Match
+Witch Doctor,Won Match
+Grimstroke,Won Match
+Phoenix,Won Match
+Disruptor,Won Match
+Mirana,Won Match
+Warlock,Lost Match
+Skywrath Mage,Won Match
+Tiny,Won Match
+Windranger,Lost Match
+Treant Protector,Won Match
+Treant Protector,Won Match
+Lich,Lost Match
+Techies,Won Match
+Warlock,Lost Match
+Winter Wyvern,Won Match
+Warlock,Won Match
+Jakiro,Won Match
+Witch Doctor,Lost Match
+Witch Doctor,Lost Match
+Warlock,Lost Match
+Warlock,Lost Match
+Hoodwink,Lost Match
+Hoodwink,Won Match
+Hoodwink,Lost Match
+Hoodwink,Lost Match
+Warlock,Won Match
+Jakiro,Won Match
+Vengeful Spirit,Lost Match
+Vengeful Spirit,Lost Match
+Tiny,Lost Match
+Pudge,Won Match
+Pudge,Won Match
+Pudge,Lost Match
+Io,Lost Match
+Skywrath Mage,Lost Match
+Pudge,Lost Match
